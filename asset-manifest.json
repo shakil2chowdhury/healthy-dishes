@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/healthy-dishes/static/css/main.54b065c3.chunk.css",
-    "main.js": "/healthy-dishes/static/js/main.68b960f9.chunk.js",
-    "main.js.map": "/healthy-dishes/static/js/main.68b960f9.chunk.js.map",
+    "main.js": "/healthy-dishes/static/js/main.2c218641.chunk.js",
+    "main.js.map": "/healthy-dishes/static/js/main.2c218641.chunk.js.map",
     "runtime-main.js": "/healthy-dishes/static/js/runtime-main.580de7dd.js",
     "runtime-main.js.map": "/healthy-dishes/static/js/runtime-main.580de7dd.js.map",
-    "static/js/2.98daaa77.chunk.js": "/healthy-dishes/static/js/2.98daaa77.chunk.js",
-    "static/js/2.98daaa77.chunk.js.map": "/healthy-dishes/static/js/2.98daaa77.chunk.js.map",
+    "static/js/2.4a8d2c56.chunk.js": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js",
+    "static/js/2.4a8d2c56.chunk.js.map": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js.map",
     "index.html": "/healthy-dishes/index.html",
     "static/css/main.54b065c3.chunk.css.map": "/healthy-dishes/static/css/main.54b065c3.chunk.css.map",
-    "static/js/2.98daaa77.chunk.js.LICENSE.txt": "/healthy-dishes/static/js/2.98daaa77.chunk.js.LICENSE.txt",
-    "static/media/logo.b2e5a01e.svg": "/healthy-dishes/static/media/logo.b2e5a01e.svg"
+    "static/js/2.4a8d2c56.chunk.js.LICENSE.txt": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.580de7dd.js",
-    "static/js/2.98daaa77.chunk.js",
+    "static/js/2.4a8d2c56.chunk.js",
     "static/css/main.54b065c3.chunk.css",
-    "static/js/main.68b960f9.chunk.js"
+    "static/js/main.2c218641.chunk.js"
   ]
 }
