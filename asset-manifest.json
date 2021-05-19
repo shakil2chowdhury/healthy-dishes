@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/healthy-dishes/static/css/main.54b065c3.chunk.css",
-    "main.js": "/healthy-dishes/static/js/main.79e103e3.chunk.js",
-    "main.js.map": "/healthy-dishes/static/js/main.79e103e3.chunk.js.map",
+    "main.js": "/healthy-dishes/static/js/main.206f25a8.chunk.js",
+    "main.js.map": "/healthy-dishes/static/js/main.206f25a8.chunk.js.map",
     "runtime-main.js": "/healthy-dishes/static/js/runtime-main.580de7dd.js",
     "runtime-main.js.map": "/healthy-dishes/static/js/runtime-main.580de7dd.js.map",
     "static/js/2.4a8d2c56.chunk.js": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.580de7dd.js",
     "static/js/2.4a8d2c56.chunk.js",
     "static/css/main.54b065c3.chunk.css",
-    "static/js/main.79e103e3.chunk.js"
+    "static/js/main.206f25a8.chunk.js"
   ]
 }
