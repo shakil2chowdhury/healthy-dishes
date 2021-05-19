@@ -1,6 +1,6 @@
 ### Healthy Dishes is a web application for the people who wants to know about the calories of a specific dish
 
-Live Site [http://localhost:3000](Click Here) to view it in the browser.
+Live Site [Click Here](https://compassionate-archimedes-41aeee.netlify.app/) to view it in the browser.
 
 User Login Information<br />
 Username: shakil
