@@ -1,0 +1,19 @@
+.sidebar-main {
+    padding-left: 2rem;
+}
+
+.sidebar-main a {
+    text-decoration: none;
+    color: white;
+    margin-top: 2rem;
+    transition: all .3s ease-in-out;
+}
+
+.sidebar-main a:hover {
+    color: #e63946;
+    transition: all .3s ease-in-out;
+}
+
+.sidebar-main > div {
+    margin: 1rem;
+}
