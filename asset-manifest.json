@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/css/main.54b065c3.chunk.css",
-    "main.js": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/main.b922d572.chunk.js",
-    "main.js.map": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/main.b922d572.chunk.js.map",
-    "runtime-main.js": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/runtime-main.4d428854.js",
-    "runtime-main.js.map": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/runtime-main.4d428854.js.map",
-    "static/js/2.4a8d2c56.chunk.js": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/2.4a8d2c56.chunk.js",
-    "static/js/2.4a8d2c56.chunk.js.map": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/2.4a8d2c56.chunk.js.map",
-    "index.html": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/index.html",
-    "static/css/main.54b065c3.chunk.css.map": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/css/main.54b065c3.chunk.css.map",
-    "static/js/2.4a8d2c56.chunk.js.LICENSE.txt": "https://shakil2chowdhury.github.io/healthy-dishes/healthy-dishes/static/js/2.4a8d2c56.chunk.js.LICENSE.txt"
+    "main.css": "/healthy-dishes/static/css/main.54b065c3.chunk.css",
+    "main.js": "/healthy-dishes/static/js/main.dcef4f23.chunk.js",
+    "main.js.map": "/healthy-dishes/static/js/main.dcef4f23.chunk.js.map",
+    "runtime-main.js": "/healthy-dishes/static/js/runtime-main.580de7dd.js",
+    "runtime-main.js.map": "/healthy-dishes/static/js/runtime-main.580de7dd.js.map",
+    "static/js/2.4a8d2c56.chunk.js": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js",
+    "static/js/2.4a8d2c56.chunk.js.map": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js.map",
+    "index.html": "/healthy-dishes/index.html",
+    "static/css/main.54b065c3.chunk.css.map": "/healthy-dishes/static/css/main.54b065c3.chunk.css.map",
+    "static/js/2.4a8d2c56.chunk.js.LICENSE.txt": "/healthy-dishes/static/js/2.4a8d2c56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d428854.js",
+    "static/js/runtime-main.580de7dd.js",
     "static/js/2.4a8d2c56.chunk.js",
     "static/css/main.54b065c3.chunk.css",
-    "static/js/main.b922d572.chunk.js"
+    "static/js/main.dcef4f23.chunk.js"
   ]
 }
